@@ -21,7 +21,7 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=for-the-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerric-charon)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerric-charon)
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
